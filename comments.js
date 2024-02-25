@@ -1,4 +1,4 @@
-// Create Web Server
+// Create web server
 // Create a Web Server that listens for requests on port 3000. When requests are received, the server will send back a response with the following content:
 // "Hello, World!"
 
